@@ -1,0 +1,25 @@
+
+$ ls
+$ git init
+$ git status
+$ git remote add origin "https://github.com/nikhilgoud1815/fourth-repository.git"
+$ git add .
+$ git commit origin master
+$ git init
+$ git status
+$ git branch merge1
+$ git checkout merge1
+$ git add .
+$ git commit -m "myfirstbranch"
+$ git init
+$ git status
+$ git branch merge2
+$ git checkout merge2
+$ git add.
+$ git commit -m "mysecondbranch"
+$ git log
+$ git merge merge1
+$ git diff merge1 merge2
+$ git log 
+
+
